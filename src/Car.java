@@ -27,4 +27,8 @@ public class Car {
             carDoor = 2;
             carColor = "red";
         }
+
+        private void explode(){
+            System.out.println("Boom!!");
+        }
 }
